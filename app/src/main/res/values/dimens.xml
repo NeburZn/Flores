@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minimo">1dp</dimen>
+    <dimen name="tres">3dp</dimen>
+    <dimen name="seis">6dp</dimen>
+    <dimen name="ocho">8dp</dimen>
+    <dimen name="dieciseis">16dp</dimen>
+    <dimen name="grande">75dp</dimen>
+    <dimen name="enorme">300dp</dimen>
+
+</resources>

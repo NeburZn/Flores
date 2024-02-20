@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Flores</string>
+
+    <string name="nombre1">Flor del infierno</string>
+    <string name="cientifico1">Lycoris Radiata</string>
+
+    <string name="nombre2">Flor de jade verde</string>
+    <string name="cientifico2">Strongylodon macrobotrys</string>
+
+    <string name="nombre3">Flor esqueleto</string>
+    <string name="cientifico3">Diphylleia grayi</string>
+
+    <string name="nombre4">Garza blanca</string>
+    <string name="cientifico4">Habenaria radiata</string>
+
+    <string name="nombre5">Flor baston de caramelo</string>
+    <string name="cientifico5">Oxalis Versicolor</string>
+
+    <string name="nombre6">Flor del beso</string>
+    <string name="cientifico6">Psychotria poeppigiana</string>
+
+    <string name="nombre7">Baston del emperador</string>
+    <string name="cientifico7">Etlingera elatior</string>
+
+    <string name="nombre8">Flor de pasión</string>
+    <string name="cientifico8">Passiflora caerulea</string>
+
+    <string name="nombre9">Flor de los hombrecitos</string>
+    <string name="cientifico9">Orchis Italica</string>
+
+    <string name="nombre10">Corazon Sangrante</string>
+    <string name="cientifico10">Lamprocapnos spectabilis</string>
+
+    <string name="barra">FLORISTERIA</string>
+
+    <string name="desc1">Es llamada \"flor del infierno\" y está asociada a la muerte en la sociedad japonesa. Ya que sus bulbos son venenosos, era plantada en cementerios para evitar que los animales comieran a los muertos.</string>
+    <string name="desc2">Conocida también como flor de jade, parra esmeralda o parra de jade turquesa, es una especie de la familia de las leguminosas, estrechamente relacionada con los frijoles y ayocote. Es nativa de los bosques de las Filipinas.</string>
+    <string name="desc3">Las gotas de agua también se unen a la estructura de venas que la planta posee haciendo que lo único visible sea una estructura similar al esqueleto de una flor, por esto su curioso nombre: flor esqueleto.</string>
+    <string name="desc4">La Garza Blanca. Es una especie de orquídea originaria de Asia. Debe su nombre a su forma, y es que si te fijas parece una garza con las alas blancas extendidas en vuelo, ¡es espectacular!</string>
+    <string name="desc5">Esta rara y maravillosa planta crece a partir de unos bulbos de otoño muy llamativos, su nombre se debe precisamente al original color de sus flores, blancas con rayas rojas en la parte inferior que recuerdan a los bastones de caramelo típicos del período navideño.</string>
+    <string name="desc6">Pertenece a la familia de las Rubiaceae y es conocida como la Flor del beso o Labios de mujer, debido a la forma de sus brácteas, que conforman en un momento del proceso de floración, la forma de unos sensuales labios pintados de carmín.</string>
+    <string name="desc7">Sus flores dispuestas sobre un escapo de más de un metro, son redondas y pueden llegar a medir 25 cm de diámetro, en su conjunto simula un bastón de allí su nombre.</string>
+    <string name="desc8">La leyenda dice que su nombre y origen está vinculado a la Pasión de Cristo porque los diez pétalos que protegen la flor representan a los diez apóstoles que se encuentran en la crucifixión.</string>
+    <string name="desc9">Es una de las orquídeas mágicas, junto con Orchis anthropophora, que se asociaban con el origen del hombre por tener flores con forma de hombrecitos. Su nombre específico, italica, hace referencia a que fue descrita originalmente en Italia.</string>
+    <string name="desc10">Dicentra, conocida popularmente como “Corazón sangrante” ya que su forma se asemeja a un corazón del que cae una gota de sangre.</string>
+
+</resources>
